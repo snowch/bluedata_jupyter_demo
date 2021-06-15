@@ -1,1 +1,1 @@
-# bluedata_jupyter_demo
+# jupyter-demo
